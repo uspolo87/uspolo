@@ -1,0 +1,407 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+body{
+
+	padding: 0;
+	margin: 0;
+}
+
+section{
+
+	padding: 5px;
+	margin-top: 50px;
+
+}
+
+.navbar-brand{
+
+	color: #fff;
+	font-size: 200%;
+}
+nav li a{
+
+	color: white;
+	font-size: 120%;
+}
+ 
+ .navbar-nav button{
+
+ 	border-radius: 15px;
+ 	padding: 8px;
+ 	color: black;
+ 	margin-top: 8px;
+ 	font-size: 15px;
+ 	margin-bottom: 5px;
+ 	margin-left: 5px;
+ 	transition: background-color 1s;
+
+ }
+
+ .navbar-nav button:hover {
+ 
+  background-color: slateblue;
+  box-shadow: 1px solid black;
+  color: white;
+
+ }
+
+ header{
+
+ 	background-image: url('1.jpg');
+ }
+
+ .carousel-heading{
+
+ 	font-size: 35px;
+ 	padding: 5px;
+ 	text-transform: uppercase;
+ 	font-family: 'Titillium Web', sans-serif;
+ 	font-weight: bold;
+ 	line-height: 41px;
+ }
+
+
+ .carousel-paragraph{
+
+ 	font-size: 20px;
+ 	line-height: 28px;
+ 	padding: 5px;
+ 	font-family: 'Titillium Web', sans-serif;
+ 	font-weight: 800px;
+ 	text-align: justify-all;
+
+
+ }
+
+.carousel-btn {
+
+	font-size: 20px;
+
+   font-family: 'Titillium Web', sans-serif;
+   border-radius: 15px;
+   background-color: #2F4F4F;
+   transition: font-size 1s;
+}
+
+.carousel-btn:hover{
+
+	box-shadow: 2px solid black;
+	color: white;
+	font-size: 22px;
+
+}
+ 
+  .col-md-7 p:first-child{
+
+  	 text-transform: uppercase;
+  	 color:#2F4F4F;
+  	 font-size: 15px;
+  	 font-weight: bolder;
+     padding: 5px;
+  	 line-height: 22px;
+  	  font-family: 'Titillium Web', sans-serif;
+  }
+
+.col-md-7 h3{
+
+	font-size: 35px;
+	color: #2F4F4F;
+	font-weight: bolder;
+
+}
+
+ p.desc{
+
+	
+	 text-align: justify-all;
+	 font-size: 17px;
+	 padding: 10px;
+
+}
+hr{
+
+	
+	border: 0.5px groove black;
+}
+
+.col-md-5 img{
+
+	width: 90%;
+	height: 300px;
+	margin-top: 70px;
+	margin-left: 20px;
+}
+
+ 
+
+.img-responsive {
+
+	height: 400px;
+}
+
+section p{
+
+	font-size: 120%;
+}
+
+section h3 {
+
+font-family: verdana;
+font-size: 35px;
+line-height: 38px;
+margin-top: -10px;
+}
+
+#second,#first,#third{
+
+	margin-top: 100px;
+
+
+}
+
+section .col-md-7 {
+
+	margin-top: 100px;
+}
+
+section.hello{
+
+	margin-top: 80px;
+	padding: 20px;
+}
+
+section.customer img{
+
+	width: 250px;
+	height: 150px;
+	padding: 10px;
+	border-radius: 15px;
+    
+}
+
+section.hello h1{
+
+	font-size: 35px;
+	text-transform: uppercase;
+	color: cadetblue;
+	line-height: 45px;
+	font-weight: bolder;
+	font-family: 'Titillium Web', sans-serif;
+}
+
+section.customer {
+
+	background-color: #2F4F4F;
+	border-radius: 25px;
+	padding-top: 50px;
+	padding-bottom: 50px; 
+}
+
+/* bussiness section */
+
+.bussiness-paragrapgh{
+
+text-transform: uppercase;
+  	 color:#2F4F4F;
+  	 font-size: 15px;
+  	 font-weight: bolder;
+     padding: 5px;
+  	 line-height: 22px;
+  	  font-family: 'Titillium Web', sans-serif;
+
+}
+
+.bussiness-heading{
+
+	font-size: 35px;
+	color: #2F4F4F;
+	font-weight: bolder;
+	margin-top: -10px;
+}
+
+.bussiness-content img{
+
+	width: 100%;
+}
+
+.bussiness-content p{
+
+     font-size: 18px;
+  	 font-weight: bolder;
+     padding: 10px;
+     margin-top: 40px;
+  	 line-height: 25px;
+  	 margin-bottom: 40px;
+  	  font-family: 'Titillium Web', sans-serif;
+
+}
+.bussiness-content .panel-heading{
+
+	background-color: #2F4F4F;
+	font-size: 25px;
+	padding: 10px;
+	font-family: 'Titillium Web', sans-serif;
+	
+
+}
+
+/* bambora numbers section */
+
+
+section .bambora-numbers {
+
+	background-image: url('bg1.jpg');
+	background-position: center;
+	background-size: cover;
+
+}
+
+section .bambora-numbers h1{
+
+	font-size: 35px;
+	text-transform: uppercase;
+	color: white;
+	line-height: 45px;
+	font-weight: bolder;
+	font-family: 'Titillium Web', sans-serif;
+	padding: 20px;
+}
+
+section .bambora-numbers h1.numbers{
+
+
+	font-size: 85px;
+	text-transform: uppercase;
+	color: white;
+	line-height: 45px;
+	font-weight: bolder;
+	font-family: 'Titillium Web', sans-serif;
+	padding: 20px;
+	margin-top: 45px;
+
+
+}
+
+section .bambora-numbers p{
+ 
+ font-size: 15px;
+ line-height: 25px;
+ color: #fff;
+
+}
+
+
+section .bambora-numbers button{
+
+	margin-top: 50px;
+	
+	background-color: transparent;
+	border:2px solid slateblue;
+	border-radius: 25px;
+	font-size: 20px;
+	color: white;
+	margin-left: 35%;
+	margin-bottom: 20px;
+
+}
+
+/*form section */
+
+section .form-section{
+
+	background-image: url('blue.png');
+
+	margin-top: -50px;
+
+}
+
+section .form-section form{
+
+	background-color: #fff;
+	border-radius: 25px;
+	padding: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+section .form-content h1 {
+
+	margin-top: 165px;
+	color: #fff;
+}
+
+section .form-content p{
+
+	color: #fff;
+}
+
+/* future-payments-content */
+
+.future-payments-content p {
+
+	  font-size: 18px;
+  	 font-weight: bolder;
+     padding: 10px;
+     margin-top: 40px;
+  	 line-height: 25px;
+  	 margin-bottom: 40px;
+  	 font-family: 'Titillium Web', sans-serif;
+}
+
+.future-payments-content h1{
+
+	font-size: 35px;
+	text-transform: uppercase;
+	color: cadetblue;
+	line-height: 45px;
+	margin-top: -45px;
+	font-weight: bolder;
+	font-family: 'Titillium Web', sans-serif;
+
+}
+
+.future-payments .col-lg-4 p{
+
+	 font-size: 18px;
+	 font-weight: bolder;
+     padding: 10px;
+     margin-top: 40px;
+  	 line-height: 25px;
+  	 margin-bottom: 40px;
+  	 font-family: 'Titillium Web', sans-serif;
+}
+
+.future-payments .col-lg-4 .panel-heading {
+
+	background-color: #2F4F4F;
+}
+
+
+.future-payments .col-lg-4 .panel-heading .panel-title{
+
+	font-size: 15px;
+	line-height: 25px;
+}
+
+footer{
+
+	margin-top: 70px;
+	padding: 20px;
+	background-color: gainsboro;
+}
+
+.footer-content h4 {
+
+
+  font-size: 22px;
+  color: #2F4F4F;
+  margin-top: 40px;
+	
+}
+
+.footer-content p{
+
+	font-size: 110%;
+	color: black;
+}
+
